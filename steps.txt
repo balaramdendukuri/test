@@ -1,0 +1,7 @@
+This script will install/create 2 VM's along with creating network and firewall rules
+
+from tfinfra folder
+terraform init
+terraform fmt
+terraform plan
+terraform apply
